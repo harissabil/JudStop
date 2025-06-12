@@ -3,8 +3,8 @@
 **JudStop** adalah aplikasi Android yang dirancang untuk membantu pengguna mengurangi dan menghentikan kebiasaan judi online. Aplikasi ini memanfaatkan Android Accessibility Service untuk secara proaktif mendeteksi dan mencegah akses ke situs-situs judi online yang teridentifikasi, serta menyediakan dukungan melalui chatbot AI yang terintegrasi dengan Azure OpenAI (GPT-4.1).
 
 ## Daftar Isi
-- [Tujuan Proyek](#tujuan-proyek)
 - [Tangkapan Layar](#tangkapan-layar)
+- [Tujuan Proyek](#tujuan-proyek)
 - [Fitur Utama](#fitur-utama)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Prasyarat](#prasyarat)
