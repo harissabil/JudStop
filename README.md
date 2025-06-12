@@ -1,6 +1,6 @@
 # JudStop
 
-**JudStop** adalah aplikasi Android yang dirancang untuk membantu pengguna mengurangi dan menghentikan kebiasaan judi online. Aplikasi ini memanfaatkan Android Accessibility Service untuk secara proaktif mendeteksi dan memblokir akses ke situs-situs judi online yang teridentifikasi, serta menyediakan dukungan melalui chatbot AI yang terintegrasi dengan Azure OpenAI (GPT-4.1).
+**JudStop** adalah aplikasi Android yang dirancang untuk membantu pengguna mengurangi dan menghentikan kebiasaan judi online. Aplikasi ini memanfaatkan Android Accessibility Service untuk secara proaktif mendeteksi dan mencegah akses ke situs-situs judi online yang teridentifikasi, serta menyediakan dukungan melalui chatbot AI yang terintegrasi dengan Azure OpenAI (GPT-4.1).
 
 ## Daftar Isi
 - [Tujuan Proyek](#tujuan-proyek)
