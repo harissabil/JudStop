@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JudStop</string>
+    <string name="accessibility_service_description">Judol Stopper accessibility service berfungsi untuk menghentikan aktivitas di perangkat apabila mendeteksi unsur-unsur yang berkaitan dengan judi online. Fitur ini masih dalam tahap pengembangan, oleh karena itu mohon dimaklumi bila terdapat beberapa bug.</string>
+    <string name="accessibility_service_label">JudStop Judol Stopper</string>
+</resources>
